@@ -1,6 +1,6 @@
 Geekhub PHP HomeWork: Symfony Blog Application
 =
-Contains HomeWorks:
+Contains HomeWorks:  
 #8: Templates  
 #9: ORM  
 #10: ORM2  
