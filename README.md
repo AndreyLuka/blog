@@ -1,5 +1,12 @@
 Geekhub PHP HomeWork: Symfony Blog Application
 =
+Contains HomeWorks:
+#8: Templates  
+#9: ORM  
+#10: ORM2  
+#11: Forms  
+#12: Services  
+#13: Security
 
 #### EER Diagram:
 
